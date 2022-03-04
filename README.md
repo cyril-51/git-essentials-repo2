@@ -1,3 +1,9 @@
+# I am a new GIT ESSENTIALS here, I'm all new lesson 368
+
+This is a course to teach you how to use everyday git
+
+
+
 # git-essentials
 
 ## Deployment notes
